@@ -1,0 +1,13 @@
+path: D:/USM/yolov11/datasets/lv
+train: images/jpg-train
+val: images/jpg-val
+test: images/jpg-test
+
+nc: 6
+names:
+  0: crazing
+  1: inclusion
+  2: patches
+  3: pitted_surface
+  4: rolled-in_scale
+  5: scratches

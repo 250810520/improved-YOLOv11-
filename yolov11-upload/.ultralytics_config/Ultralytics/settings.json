@@ -1,0 +1,19 @@
+{
+  "settings_version": "0.0.8",
+  "datasets_dir": "D:\\USM\\ultralytics\\datasets",
+  "weights_dir": "weights",
+  "runs_dir": "runs",
+  "uuid": "a934a5e8e0d05f64633c8d06b677a9d1184085bdf070bce834839a11f5fe98e4",
+  "sync": true,
+  "api_key": "",
+  "openai_api_key": "",
+  "clearml": true,
+  "comet": true,
+  "dvc": true,
+  "mlflow": true,
+  "raytune": true,
+  "tensorboard": false,
+  "wandb": false,
+  "vscode_msg": true,
+  "openvino_msg": true
+}
